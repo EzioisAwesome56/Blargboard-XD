@@ -33,7 +33,7 @@ Get a webserver. Upload the Blargboard XD codebase to it. Create an empty MySQL 
 
 Browse to your board's install.php (http://my.board.for.example/install.php) and follow the instructions.
 
-If everything went fine, browse to your freshly installed board and configure it. If not, let us know.
+If everything went fine, browse to your freshly installed board and configure it. If not, let us know. 
 
 We recommend you take some time and make your own board themes and banner to give your board a truly unique feel.
 If you have HTML knowledge, you can even edit the templates to change your board's look more in-depth.
